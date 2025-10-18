@@ -60,18 +60,6 @@ Advised by **Dr. Zhichao Cao**
 
 ---
 
-### 🔹 [**Stock Price Prediction Using Prophet**](https://github.com/sampada2312/Stock-Price-Prediction-Using-Facebook-Prophet-Library)
-*Prophet • Pandas • Matplotlib*
-- Modeled time-series data to predict stock price trends and visualize forecasts interactively.
-
----
-
-### 🔹 [**Android Malware Detection**](https://github.com/sampada2312/android-malware-detection)
-*Python • Scikit-learn*
-- Built ML models to detect malicious Android apps through static and dynamic features.
-
----
-
 ## 🧰 Technical Toolbox
 
 **Languages:** Python, Java, SQL (MySQL, PostgreSQL), C++, JavaScript  
