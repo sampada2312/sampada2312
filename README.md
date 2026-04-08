@@ -17,10 +17,9 @@ My experience spans **machine learning**, **NLP**, **distributed systems**, and 
 **Graduate Student Researcher** (May 2025 – Present)  
 Advised by **Dr. Zhichao Cao**
 
-- Trained generative ML models with **PyTorch** and **AutoGluon** to synthesize large-scale key-value store traces for system benchmarking.  
-- Fine-tuned **LLMs** on 170+ **RocksDB** parameters to improve cache efficiency and reduce latency.  
-- Designed prompt strategies and evaluation pipelines ensuring model correctness and reproducibility.  
-- Thesis: *Evaluating Machine Learning Methods for Trace Synthesis in Benchmarking Systems.*
+- **Designed an interpretable statistical encoder-decoder pipeline** for synthetic generation of storage-system workload traces using Markov modeling, reuse-distance locality, conditional distributions, and DCT-based timestamp compression, **achieving 0.99+ trace-level cosine similarity across 10 workloads.** 
+- Built a compact workload-modeling framework that reduced stored trace representations to **0.10%–2.86% of original trace size** while preserving key structural, temporal, and access-pattern behavior in the regenerated traces. 
+- Thesis: *Modeling Traces using Statistical Methods.*
 
 ---
 
