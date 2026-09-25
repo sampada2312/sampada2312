@@ -1,90 +1,57 @@
-# 👋 Hi, I'm **Sampada Nemade**
+# Hi, I'm Sampada 👋
 
-🎓 **M.S. in Data Science, Analytics & Engineering** @ [Arizona State University](https://www.asu.edu)  
-💼 Former **Technology Program Analyst II** @ [Fiserv](https://www.fiserv.com)  
-📍 Tempe, AZ | [LinkedIn](https://www.linkedin.com/in/sampada-nemade) | [GitHub](https://github.com/sampada2312) | ✉️ snemade1@asu.edu  
+I'm a **Data Scientist & Software Engineer** interested in building things at the intersection of **machine learning, data systems, and scalable software**.
 
----
+🎓 M.S. in Data Science, Analytics & Engineering @ Arizona State University  
+💻 I enjoy working with **Python, ML systems, data pipelines, distributed systems, and backend engineering**  
+🌱 Currently exploring **LLMs, ML infrastructure, and intelligent data systems**
 
-## 🚀 About Me
-I’m a **data-driven full-stack developer** and **aspiring data scientist** passionate about building **scalable ML systems**, **real-time data pipelines**, and **intelligent web applications** that bridge the gap between **engineering and analytics**.
-
-My experience spans **machine learning**, **NLP**, **distributed systems**, and **end-to-end web development** — from designing efficient backends to deploying models that deliver real-world impact.
-
----
-
-## 🧠 Research @ Arizona State University
-**Graduate Student Researcher** (May 2025 – Present)  
-Advised by **Dr. Zhichao Cao**
-
-- **Designed an interpretable statistical encoder-decoder pipeline** for synthetic generation of storage-system workload traces using Markov modeling, reuse-distance locality, conditional distributions, and DCT-based timestamp compression, **achieving 0.99+ trace-level cosine similarity across 10 workloads.** 
-- Built a compact workload-modeling framework that reduced stored trace representations to **0.10%–2.86% of original trace size** while preserving key structural, temporal, and access-pattern behavior in the regenerated traces. 
-- Thesis: *Modeling Traces using Statistical Methods.*
+<p align="left">
+  <a href="https://www.linkedin.com/in/sampada-nemade">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:snemade1@asu.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sampada2312">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💼 Industry Experience
+## ⚙️ Tech I Like Working With
 
-### **Technology Program Analyst II – Fiserv (Aug 2022 – Apr 2024)**
-- 🚀 Reduced **client onboarding time by 40%** by developing high-performance web apps using **AngularJS, Java, and MySQL**.  
-- ⚡ Improved **data retrieval speed by 15%** via optimized queries and database indexing.  
-- 🧩 Built and automated **ETL pipelines** in **Python**, enabling efficient analytics workflows.  
-- 🤖 Conducted R&D on ML models for **failure pattern analysis**, enhancing system reliability and proactive issue detection.
-
-### **Summer Intern – Fiserv (Jun 2021 – Jul 2021)**
-- 🖥️ Reduced **server downtime by 15%** by developing and deploying Java-based monitoring apps with real-time alerting, ensuring SLA compliance.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,postgres,pytorch,docker,kubernetes,kafka,aws,git" />
+</p>
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 A Few Things I've Built
 
-### 🔹 [**LLM-Based Content Personalization with Vector Search**](https://github.com/sampada2312/llm-semantic-book-recommender)
-*Hugging Face • LangChain • ChromaDB • Gradio*
-- Built an **LLM-powered recommender** that personalizes suggestions using vector embeddings, sentiment analysis, and user context.
-- Deployed a **Gradio dashboard** for interactive, real-time recommendations.
+🔎 **[Semantic Book Recommender](https://github.com/sampada2312/llm-semantic-book-recommender)**  
+Vector search · NLP · Hugging Face · Chroma · Gradio
 
----
+🌐 **[Real-Time Graph Analytics](https://github.com/sampada2312/Real-Time-Scalable-Graph-Analytics)**  
+Kafka · Neo4j · Kubernetes · Graph Algorithms
 
-### 🔹 [**Disaster-Related Tweet Classification Using NLP**](https://github.com/sampada2312/Disaster-Related-Tweet-Classification-Using-NLP)
-*Python • BERT • TF-IDF • CBOW • Scikit-learn*
-- Engineered an **NLP pipeline** to identify disaster-related tweets amid noisy, slang-heavy data.
-- Combined traditional text-mining and transformer-based models for high classification accuracy.
+🧠 **[Disaster Tweet Classification](https://github.com/sampada2312/Disaster-Related-Tweet-Classification-Using-NLP)**  
+BERT · TF-IDF · Classical ML
 
 ---
 
-### 🔹 [**Real-Time Scalable Graph Analytics**](https://github.com/sampada2312/Real-Time-Scalable-Graph-Analytics)
-*Neo4j • Kafka • Spark • Docker • Kubernetes*
-- Designed a **containerized, Kubernetes-orchestrated** graph analytics pipeline for **NYC Yellow Cab** trip data.  
-- Achieved **2.5× higher throughput** and **50% lower resource usage** than baseline Docker setups.
+## 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=sampada2312&theme=transparent&hide_border=true" />
+</p>
+
 
 ---
 
-## 🧰 Technical Toolbox
+### 👋 Let's Connect
 
-**Languages:** Python, Java, SQL (MySQL, PostgreSQL), C++, JavaScript  
-**Frameworks:** Angular, Flask, Spark, PyTorch, TensorFlow  
-**Data & Cloud:** Docker, Kubernetes, AWS (S3, Lambda, SageMaker), Hadoop  
-**Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn, nltk, bokeh  
-**Soft Skills:** Project Management, Cross-functional Collaboration, Leadership, Communication
+I'm always happy to connect with people working on interesting problems in **software, data, and ML**.
 
----
-
-## 🏆 Achievements
-- 🥈 **Second Runner-Up**, IBM Software Hackathon — Developed ML solutions for natural disaster response.  
-- 🎓 **GPA:** 3.94/4.00 (M.S.) | 9.02/10.00 (B.Tech)  
-- 🧩 Volunteer at ASU’s Intelligent Data Infrastructure (IDI) Lab.
-
----
-
-## 🌱 Currently Exploring
-- Advanced LLM fine-tuning for system optimization  
-- Machine Learning and Statistics models for trace synthesis
-
----
-
-## 📫 Let’s Connect
-💼 [LinkedIn – Sampada Nemade](https://www.linkedin.com/in/sampada-nemade)  
-💻 [GitHub – sampada2312](https://github.com/sampada2312)  
-📧 **snemade1@asu.edu**  
-
-
+[LinkedIn](https://www.linkedin.com/in/sampada-nemade) · [GitHub](https://github.com/sampada2312) · [Email](mailto:snemade1@asu.edu)
