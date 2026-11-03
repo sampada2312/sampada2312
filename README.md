@@ -1,57 +1,58 @@
-# Hi, I'm Sampada 👋
+# Hi, I'm Sampada! 👋
 
-I'm a **Data Scientist & Software Engineer** interested in building things at the intersection of **machine learning, data systems, and scalable software**.
+**Software Engineer | Data Scientist | ML Enthusiast**
+
+I enjoy building intelligent, scalable systems at the intersection of **software engineering, machine learning, and data**.
 
 🎓 M.S. in Data Science, Analytics & Engineering @ Arizona State University  
-💻 I enjoy working with **Python, ML systems, data pipelines, distributed systems, and backend engineering**  
-🌱 Currently exploring **LLMs, ML infrastructure, and intelligent data systems**
+💻 Currently working as a Data Scientist @ Integrated Travel  
+🌱 Exploring **AI/ML systems, backend engineering, and distributed systems**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sampada-nemade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://sampada2312.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-556B2F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sampada-nemade/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:snemade1@asu.edu">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sampada2312">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## ⚙️ Tech I Like Working With
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,postgres,pytorch,docker,kubernetes,kafka,aws,git" />
-</p>
-
----
-
-## 🚀 A Few Things I've Built
-
-🔎 **[Semantic Book Recommender](https://github.com/sampada2312/llm-semantic-book-recommender)**  
-Vector search · NLP · Hugging Face · Chroma · Gradio
-
-🌐 **[Real-Time Graph Analytics](https://github.com/sampada2312/Real-Time-Scalable-Graph-Analytics)**  
-Kafka · Neo4j · Kubernetes · Graph Algorithms
-
-🧠 **[Disaster Tweet Classification](https://github.com/sampada2312/Disaster-Related-Tweet-Classification-Using-NLP)**  
-BERT · TF-IDF · Classical ML
-
----
-
-## 📊 GitHub Activity
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=sampada2312&theme=transparent&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,postgres,pytorch,docker,kubernetes,kafka,aws,git&perline=10" alt="Tech Stack"/>
 </p>
-
 
 ---
 
-### 👋 Let's Connect
+### 🚀 Featured Projects
 
-I'm always happy to connect with people working on interesting problems in **software, data, and ML**.
+📚 **[Semantic Book Recommender](https://github.com/sampada2312/llm-semantic-book-recommender)**  
+`NLP` · `Vector Search` · `Hugging Face` · `Chroma`
 
-[LinkedIn](https://www.linkedin.com/in/sampada-nemade) · [GitHub](https://github.com/sampada2312) · [Email](mailto:snemade1@asu.edu)
+🌐 **[Real-Time Graph Analytics](https://github.com/sampada2312/Real-Time-Scalable-Graph-Analytics)**  
+`Kafka` · `Neo4j` · `Kubernetes` · `Graph Algorithms`
+
+🧠 **[Disaster Tweet Classification](https://github.com/sampada2312/Disaster-Related-Tweet-Classification-Using-NLP)**  
+`BERT` · `TF-IDF` · `Machine Learning`
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=sampada2312&theme=transparent&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Curious about what else I'm building?</i>
+  <br/>
+  🍀 <a href="https://sampada2312.github.io/"><b>Explore my portfolio</b></a>
+</p>
